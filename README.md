@@ -1,5 +1,5 @@
 # OS X homebrew formulas
 
-    brew install https://raw.github.com/binaerraum/brew/master/<formula>.rb
+    brew install https://raw.githubusercontent.com/binaerraum/STM32F04/master/arm-toolchain.rb
 
 -- pg
